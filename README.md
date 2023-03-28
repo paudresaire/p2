@@ -6,7 +6,7 @@ A continuación se muestra un vídeo demostrativo del funcionamiento de la pract
 
 
 
-***Funcionamiento del código***
+### Funcionamiento del código
 
 falta escriure
 
